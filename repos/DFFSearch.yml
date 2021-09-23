@@ -6,3 +6,8 @@ DFFSearch:
   JoshF85:
     type: "user"
     permission: "maintain"
+    
+    
+  Deeptimayee123:
+    type: "user"
+    permission: "read"

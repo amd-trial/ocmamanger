@@ -2,3 +2,9 @@ Repo_TestSonarQube:
   AMD-family/everyone:
     type: "group"
     permission: "read"
+    
+    
+   
+  Deeptimayee123:
+    type: "user"
+    permission: "maintain"
